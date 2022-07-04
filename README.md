@@ -1,2 +1,2 @@
 # dio-desafio-github-primeiro-repositorio
-Desafio de Projeto sobre Git/GitHub
+** Repositório Criado para o Desafio de Projeto sobre Git/GitHub que faz parte da Formação de QA na DIO.
